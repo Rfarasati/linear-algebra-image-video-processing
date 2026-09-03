@@ -29,7 +29,6 @@ Python, NumPy, Matplotlib, OpenCV (`cv2`), ipywidgets.
 
 ## Running it
 
-Requires a local `images/` folder (with a sample image) and `videos/` folder (with a sample
-clip) alongside the notebook, since a few cells load `images/bear.jpg` and
-`videos/walking.mp4` — these sample assets aren't included here. Open `lab1.ipynb` in
-Jupyter and run top to bottom.
+The `images/` (`bear.jpg`) and `videos/` (`walking.mp4`) sample assets used by the color
+grading and motion tracking sections are included. Open `lab1.ipynb` in Jupyter and run top
+to bottom.
