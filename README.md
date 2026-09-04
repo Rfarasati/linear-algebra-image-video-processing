@@ -1,6 +1,6 @@
 # NumPy Linear Algebra Lab 1
 
-> **Course project** — Applied Linear Algebra, Ferdowsi University of Mashhad, Fall 2024
+> **Course project** — Applied Linear Algebra, Ferdowsi University of Mashhad, Fall 2024 (4th semester)
 
 A Jupyter notebook implementing core linear algebra algorithms from scratch with NumPy,
 then applying them to image and video manipulation.
